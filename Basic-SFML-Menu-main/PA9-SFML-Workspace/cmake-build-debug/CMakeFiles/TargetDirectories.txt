@@ -1,0 +1,3 @@
+C:/Users/gunna/CLionProjects/PA9-SFML-Workspace/cmake-build-debug/CMakeFiles/PA9_SFML_Workspace.dir
+C:/Users/gunna/CLionProjects/PA9-SFML-Workspace/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gunna/CLionProjects/PA9-SFML-Workspace/cmake-build-debug/CMakeFiles/rebuild_cache.dir
