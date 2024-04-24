@@ -17,6 +17,8 @@ Mouse to aim
 
 Left click to shoot
 
+Ingame screenshot:
+
 ![image](https://github.com/sangregoriokimpo/The-Running-Dead/assets/144968837/1d670262-3cd1-4c79-a08f-01101f0f67c5)
 
 Gameplay:
