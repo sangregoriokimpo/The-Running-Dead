@@ -23,4 +23,15 @@ Ingame screenshot:
 
 Gameplay:
 
+https://github.com/sangregoriokimpo/The-Running-Dead/assets/144968837/3a80e39b-a3f1-42b1-b388-12868e06464b
+
 ![RunningDead April 24 2024 16_35_25](https://github.com/sangregoriokimpo/The-Running-Dead/assets/144968837/ae2f0fb4-81a0-4709-8300-785432be7a73)
+
+We couldn't link the UI with the actual game because of compatability issues with MacOS and windows. 
+
+UI:
+
+https://github.com/sangregoriokimpo/The-Running-Dead/assets/144968837/93690725-56ea-46db-9836-c6f73b3a6292
+
+![gameover](https://github.com/sangregoriokimpo/The-Running-Dead/assets/144968837/8ae6780b-5086-4fad-a2f7-64a936705eac)
+
