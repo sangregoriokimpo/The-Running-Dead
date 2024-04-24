@@ -23,7 +23,7 @@ Ingame screenshot:
 
 Gameplay:
 
-https://github.com/sangregoriokimpo/The-Running-Dead/assets/144968837/3a80e39b-a3f1-42b1-b388-12868e06464b
+https://github.com/sangregoriokimpo/The-Running-Dead/assets/144968837/bff98a0d-5637-4ee5-b36c-32ae1c8cf808
 
 ![RunningDead April 24 2024 16_35_25](https://github.com/sangregoriokimpo/The-Running-Dead/assets/144968837/ae2f0fb4-81a0-4709-8300-785432be7a73)
 
