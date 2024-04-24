@@ -68,7 +68,7 @@ public:
             sf::View view = window.getView();
 
             // Define the offset from the player sprite's origin where bullets will originate
-            sf::Vector2f bulletOffset(80.0f, 25.0f); // Example offset, adjust as needed
+            sf::Vector2f bulletOffset(80.0f, 25.0f); // Offset to fire "out" of the rifle barrel
 
             // Rotate the bullet offset based on the player sprite's rotation
             sf::Transform transform;
