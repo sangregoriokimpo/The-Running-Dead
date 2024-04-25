@@ -12,15 +12,15 @@ Title: The Running Dead
 Tagline: "They're not just walking. They're running."
 
 Synopsis:
-In a world ravaged by a mysterious virus that turns the infected into relentless predators known as "runners," humanity fights for survival against an enemy that run with terrifying speed. "The Running Dead" follows the harrowing journey of a small group of survivors as they navigate through the ruins of civilization, constantly on the run from the relentless hordes of runners.
+In a world overrun by a deadly virus that transforms its victims into lightning-fast predators known as "runners," one man stands alone against the tide of darkness. "The Running Dead" follows the gripping odyssey of Gick Rrimes, a lone survivor navigating the ruins of civilization with courage and resilience.
 
-At the center of the story is Sarah, a resourceful young woman with a tragic past, who leads the group with unwavering determination. Alongside her is Jack, a former soldier haunted by his memories of the outbreak, and Maya, a tech-savvy hacker with a knack for improvisation. Together, they must confront not only the ever-present threat of the runners but also the dark secrets and conflicts that arise within their own ranks.
+Gick Rrimes, a rugged and determined soul, traverses the desolate landscape, haunted by memories of a lost world and driven by an unyielding will to survive. Armed only with his wits and a battered arsenal of weapons, Gick faces relentless hordes of runners at every turn, each encounter a life-or-death struggle against the relentless onslaught of these supernaturally quick undead.
 
-As they journey across desolate landscapes and abandoned cities, the survivors encounter other groups struggling to stay alive, as well as opportunistic scavengers willing to do anything to survive. Amidst the chaos and danger, Sarah and her companions must confront their deepest fears and inner demons while forging bonds of trust and loyalty that are tested at every turn.
+As Gick journeys through the decaying remnants of society, he encounters both allies and adversaries, each with their own agenda and secrets to protect. Amidst the chaos and carnage, Gick must confront his inner demons and wrestle with the moral complexities of existence in a world where the line between humanity and monstrosity blurs with each passing day.
 
-But the real challenge lies ahead when they discover rumors of a safe haven, a sanctuary untouched by the infection. With hope renewed, they embark on a perilous journey towards this rumored sanctuary, unaware of the horrors that await them and the ultimate truth behind the outbreak.
+Driven by an unwavering sense of purpose, Gick embarks on a perilous quest for redemption and salvation, determined to uncover the truth behind the outbreak and find a glimmer of hope amidst the darkness. Along the way, he will face unimaginable horrors, forge unlikely alliances, and ultimately confront the source of the infection itself in a final, desperate bid for survival against these lightning-fast runners.
 
-"The Running Dead" is a heart-pounding thriller that combines pulse-pounding action, intense suspense, and emotional depth to create a gripping tale of survival against all odds. Prepare to run for your life as the line between hunter and hunted blurs in this adrenaline-fueled race against extinction.
+"The Running Dead" is a pulse-pounding thriller that combines relentless action, heart-stopping suspense, and profound emotional depth to create a gripping tale of one man's struggle against overwhelming odds. Prepare to be swept away on an epic journey of survival and sacrifice as Gick Rrimes races against time and the running dead in a battle for the fate of humanity.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 Controls:
@@ -35,7 +35,10 @@ D - move right
 
 Mouse to aim
 
-Left click to shoot
+Left mouse button to shoot
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 Ingame screenshot:
 
