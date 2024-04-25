@@ -4,8 +4,8 @@
 Made by Gregory Jabido and Gunnar Oye
 
 Final project for CPTS 122 Spring 2024
-
-Description
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Description:
 
 Title: The Running Dead
 
@@ -22,6 +22,8 @@ But the real challenge lies ahead when they discover rumors of a safe haven, a s
 
 "The Running Dead" is a heart-pounding thriller that combines pulse-pounding action, intense suspense, and emotional depth to create a gripping tale of survival against all odds. Prepare to run for your life as the line between hunter and hunted blurs in this adrenaline-fueled race against extinction.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Controls:
 
 W - move up
 
