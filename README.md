@@ -5,6 +5,9 @@ Made by Gregory Jabido and Gunnar Oye
 
 Final project for CPTS 122 Spring 2024
 --------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![The Running Dead](https://github.com/sangregoriokimpo/The-Running-Dead/assets/144968837/cc126654-68fe-4d89-86c2-a07c48d54dba)
+
 Description:
 
 Title: The Running Dead
