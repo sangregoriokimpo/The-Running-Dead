@@ -5,6 +5,8 @@ Made by Gregory Jabido and Gunnar Oye
 
 Final project for CPTS 122 Spring 2024
 
+Took inspiration from the AMC series "The Walking Dead". Except in this game, the zombies run at you, hence the name "The Running Dead". 
+
 W - move up
 
 A - move left
